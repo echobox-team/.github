@@ -1,5 +1,3 @@
-# Echobox Team
-
 É um grupo acadêmico dedicado ao desenvolvimento do Echobox, um sistema de feedback inspirado no Reclame Aqui, mas projetado com foco em usabilidade, clareza e experiência visual aprimorada.
 
 O projeto foi desenvolvido nas disciplinas de Web Development Framework e Backend: Webservices, aplicando boas práticas de arquitetura, qualidade de código e evolução técnica ao longo do processo.
@@ -8,9 +6,9 @@ O projeto foi desenvolvido nas disciplinas de Web Development Framework e Backen
 
 ## Integrantes
 
-* **Giovani Nota Simões** – [Likedin/Giovani Simões](https://www.linkedin.com/in/giovani-simoes/)
-* **Livia Rosembach Oliveira** – [Likedin/Livia Rosembach](https://www.linkedin.com/in/livia-rosembach/)
-* **Lucas Brisch Zanlorenzi** – [Likedin/Lucas Brisch](https://www.linkedin.com/in/lucas-brisch-zanlorenzi-5b9792216/)
+* **Giovani Nota Simões** – <a href="https://www.linkedin.com/in/giovani-simoes/" target="_blank" rel="noopener noreferrer">Likedin/Giovani Simões</a>
+* **Livia Rosembach Oliveira** – <a href="https://www.linkedin.com/in/livia-rosembach/" target="_blank" rel="noopener noreferrer">Likedin/Livia Rosembach</a>
+* **Lucas Brisch Zanlorenzi** – <a href="https://www.linkedin.com/in/lucas-brisch-zanlorenzi-5b9792216/" target="_blank" rel="noopener noreferrer">Likedin/Lucas Brisch</a>
 
 ---
 
