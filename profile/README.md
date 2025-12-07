@@ -60,7 +60,3 @@ Highlights:
 * Clear evolution in architecture and best practices when compared to the first Node.js version
 
 This repository demonstrates the team’s growth in structure, standards, and code quality.
-
----
-
-Se quiser, posso também revisar a gramática, deixar mais formal, mais técnico, ou criar uma versão totalmente minimalista.
